@@ -1,0 +1,13 @@
+D:\File Programming\Coba4\Coba4\bin\Debug\Coba4.exe.config
+D:\File Programming\Coba4\Coba4\bin\Debug\Coba4.exe
+D:\File Programming\Coba4\Coba4\bin\Debug\Coba4.pdb
+D:\File Programming\Coba4\Coba4\bin\Debug\Coba4.xml
+D:\File Programming\Coba4\Coba4\obj\Debug\Coba4.vbprojAssemblyReference.cache
+D:\File Programming\Coba4\Coba4\obj\Debug\Coba4.Form1.resources
+D:\File Programming\Coba4\Coba4\obj\Debug\Coba4.Resources.resources
+D:\File Programming\Coba4\Coba4\obj\Debug\Coba4.vbproj.GenerateResource.cache
+D:\File Programming\Coba4\Coba4\obj\Debug\Coba4.vbproj.CoreCompileInputs.cache
+D:\File Programming\Coba4\Coba4\obj\Debug\Coba4.exe
+D:\File Programming\Coba4\Coba4\obj\Debug\Coba4.xml
+D:\File Programming\Coba4\Coba4\obj\Debug\Coba4.pdb
+D:\File Programming\Coba4\Coba4\obj\Debug\Coba4.Form2.resources
