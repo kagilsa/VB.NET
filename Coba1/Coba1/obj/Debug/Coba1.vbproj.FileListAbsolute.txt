@@ -1,0 +1,12 @@
+D:\File Programming\Coba1\Coba1\bin\Debug\Coba1.exe.config
+D:\File Programming\Coba1\Coba1\bin\Debug\Coba1.exe
+D:\File Programming\Coba1\Coba1\bin\Debug\Coba1.pdb
+D:\File Programming\Coba1\Coba1\bin\Debug\Coba1.xml
+D:\File Programming\Coba1\Coba1\obj\Debug\Coba1.Coba.resources
+D:\File Programming\Coba1\Coba1\obj\Debug\Coba1.Resources.resources
+D:\File Programming\Coba1\Coba1\obj\Debug\Coba1.vbproj.GenerateResource.cache
+D:\File Programming\Coba1\Coba1\obj\Debug\Coba1.vbproj.CoreCompileInputs.cache
+D:\File Programming\Coba1\Coba1\obj\Debug\Coba1.exe
+D:\File Programming\Coba1\Coba1\obj\Debug\Coba1.xml
+D:\File Programming\Coba1\Coba1\obj\Debug\Coba1.pdb
+D:\File Programming\Coba1\Coba1\obj\Debug\Coba1.vbprojAssemblyReference.cache
