@@ -1,0 +1,12 @@
+D:\File Programming\Coba3\Coba3\bin\Debug\Coba3.exe.config
+D:\File Programming\Coba3\Coba3\bin\Debug\Coba3.exe
+D:\File Programming\Coba3\Coba3\bin\Debug\Coba3.pdb
+D:\File Programming\Coba3\Coba3\bin\Debug\Coba3.xml
+D:\File Programming\Coba3\Coba3\obj\Debug\Coba3.vbprojAssemblyReference.cache
+D:\File Programming\Coba3\Coba3\obj\Debug\Coba3.Form1.resources
+D:\File Programming\Coba3\Coba3\obj\Debug\Coba3.Resources.resources
+D:\File Programming\Coba3\Coba3\obj\Debug\Coba3.vbproj.GenerateResource.cache
+D:\File Programming\Coba3\Coba3\obj\Debug\Coba3.vbproj.CoreCompileInputs.cache
+D:\File Programming\Coba3\Coba3\obj\Debug\Coba3.exe
+D:\File Programming\Coba3\Coba3\obj\Debug\Coba3.xml
+D:\File Programming\Coba3\Coba3\obj\Debug\Coba3.pdb
