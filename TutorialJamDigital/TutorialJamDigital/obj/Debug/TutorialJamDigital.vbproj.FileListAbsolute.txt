@@ -1,0 +1,11 @@
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialJamDigital\obj\Debug\TutorialJamDigital.JamDigital.resources
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialJamDigital\obj\Debug\TutorialJamDigital.Resources.resources
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialJamDigital\obj\Debug\TutorialJamDigital.vbproj.GenerateResource.cache
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialJamDigital\obj\Debug\TutorialJamDigital.vbproj.CoreCompileInputs.cache
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialJamDigital\bin\Debug\TutorialJamDigital.exe.config
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialJamDigital\bin\Debug\TutorialJamDigital.exe
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialJamDigital\bin\Debug\TutorialJamDigital.pdb
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialJamDigital\bin\Debug\TutorialJamDigital.xml
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialJamDigital\obj\Debug\TutorialJamDigital.exe
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialJamDigital\obj\Debug\TutorialJamDigital.xml
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialJamDigital\obj\Debug\TutorialJamDigital.pdb
