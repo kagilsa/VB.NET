@@ -1,0 +1,16 @@
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialKalkulator\obj\Debug\TutorialKalkulator.vbprojAssemblyReference.cache
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialKalkulator\obj\Debug\TutorialKalkulator.Kalkulator.resources
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialKalkulator\obj\Debug\TutorialKalkulator.Resources.resources
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialKalkulator\obj\Debug\TutorialKalkulator.vbproj.GenerateResource.cache
+C:\Users\NAME\AppData\Local\Temporary Projects\TutorialKalkulator\obj\Debug\TutorialKalkulator.vbproj.CoreCompileInputs.cache
+D:\File Programming\TutorialKalkulator\TutorialKalkulator\obj\Debug\TutorialKalkulator.Kalkulator.resources
+D:\File Programming\TutorialKalkulator\TutorialKalkulator\obj\Debug\TutorialKalkulator.Resources.resources
+D:\File Programming\TutorialKalkulator\TutorialKalkulator\obj\Debug\TutorialKalkulator.vbproj.GenerateResource.cache
+D:\File Programming\TutorialKalkulator\TutorialKalkulator\obj\Debug\TutorialKalkulator.vbproj.CoreCompileInputs.cache
+D:\File Programming\TutorialKalkulator\TutorialKalkulator\bin\Debug\TutorialKalkulator.exe.config
+D:\File Programming\TutorialKalkulator\TutorialKalkulator\bin\Debug\TutorialKalkulator.exe
+D:\File Programming\TutorialKalkulator\TutorialKalkulator\bin\Debug\TutorialKalkulator.pdb
+D:\File Programming\TutorialKalkulator\TutorialKalkulator\bin\Debug\TutorialKalkulator.xml
+D:\File Programming\TutorialKalkulator\TutorialKalkulator\obj\Debug\TutorialKalkulator.exe
+D:\File Programming\TutorialKalkulator\TutorialKalkulator\obj\Debug\TutorialKalkulator.xml
+D:\File Programming\TutorialKalkulator\TutorialKalkulator\obj\Debug\TutorialKalkulator.pdb
